@@ -5,6 +5,7 @@ Training to become a QA Engineer
 --------------------------------
 
 Studying using several online QA courses, where I learned about Agile, manual testing, API testing using Postman, writing bug reports & test cases, automation testing using Cypress and basic concepts of MySQL. 
+
 I'm always willing to learn, and searching for new technologies that I can use to develop myself. I consider myself optimistic, adaptable, curious, and I have a strong desire to learn new things.
 
 * 🌍  I'm based in Cluj-Napoca, Romania
