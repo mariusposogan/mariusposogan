@@ -6,7 +6,7 @@ Training to become a QA Engineer
 
 Studying using several online QA courses, where I learned about Agile, manual testing, API testing using Postman, writing bug reports & test cases, automation testing using Selenium and Cypress and basic concepts of MySQL. 
 
-I'm always willing to learn, and searching for new technologies that I can use to develop myself. I consider myself optimistic, adaptable, curious, and I have a strong desire to learn new things.
+I have a strong desire to learn new things, constantly searching for tools that I can use to develop myself. I consider myself optimistic, adaptable, and curious.
 
 * 🌍  I'm based in Cluj-Napoca, Romania
 * ✉️  You can contact me at [mcposogan@gmail.com](mailto:mcposogan@gmail.com)
