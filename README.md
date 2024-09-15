@@ -4,14 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Training to become a QA Engineer
 --------------------------------
 
-Studying using several online QA courses, where I learned about Agile, manual testing, API testing using Postman, writing bug reports & test cases, automation testing using Selenium and Cypress and basic concepts of MySQL. 
-
 I have a strong desire to learn new things, constantly searching for tools that I can use to develop myself. I consider myself optimistic, adaptable, and curious.
 
 * 🌍  I'm based in Cluj-Napoca, Romania
 * ✉️  You can contact me at [mcposogan@gmail.com](mailto:mcposogan@gmail.com)
-* 🧠  I'm learning about Automation Testing technologies
-* 🤝  I'm open to collaborating on Software Testing opportunities in a team oriented environment
+* 🧠  I'm learning about sales controlling
+* 🤝  I'm open to collaborating on different opportunities in a team oriented environment
 * ⚡  I'm secretly Batman... but don't tell anyone
 
 
